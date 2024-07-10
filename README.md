@@ -1,4 +1,4 @@
-# Trikot (Front End)
+# Trikot
 _Original Trikot(Jersey) Shop._
 
 Inspiration from Tokopedia.
