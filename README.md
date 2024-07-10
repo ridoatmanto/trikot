@@ -2,18 +2,14 @@
 _Original Trikot(Jersey) Shop._
 
 Inspiration from Tokopedia.
-Figma : [Trikot Figma](https://www.figma.com/design/RGWlRm9ooK7FHpZUqPzKhI/Trikot-(Jersey)-e-commerce?node-id=0-1&t=VfUU2F0jD6svwbJG-0).
+Figma : [Trikot E-commerce](https://www.figma.com/design/RGWlRm9ooK7FHpZUqPzKhI/Trikot-(Jersey)-e-commerce?node-id=0-1&t=VfUU2F0jD6svwbJG-0).
 
 Front End : [https://github.com/ridoatmanto/trikot-front-end](https://github.com/ridoatmanto/trikot-front-end).
 
 Backend API : [https://github.com/ridoatmanto/trikot-api](https://github.com/ridoatmanto/trikot-api).
 
 ## URL Application
-https://trikot.ridoatmanto.com
-
-## REST API Specification
-
-- Production: `https://api.trikot.ridoatmanto.com`
+- Production: `https://trikot.ridoatmanto.com`
 - Local: `http://localhost:3000`
 
 ### Orders API
